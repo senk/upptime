@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.fh-muenster.de",
     "slug": "fh-muenster",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1243,
-    "timeDay": 1224,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1234,
+    "timeDay": 937,
     "timeWeek": 1013,
-    "timeMonth": 1243,
-    "timeYear": 1243,
+    "timeMonth": 1234,
+    "timeYear": 1234,
     "dailyMinutesDown": {
       "2021-01-14": 86
     }
