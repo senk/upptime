@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: FH Münster
     url: https://www.fh-muenster.de
+  - name: Ilias
+    url: https://ilias.fh-muenster.de
 
 
 status-website:
