@@ -10,13 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.79%",
-    "time": 1230,
-    "timeDay": 1415,
-    "timeWeek": 1093,
-    "timeMonth": 1230,
-    "timeYear": 1230,
+    "time": 1244,
+    "timeDay": 1567,
+    "timeWeek": 1171,
+    "timeMonth": 1244,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2021-01-14": 86
     }
+  },
+  {
+    "name": "Ilias",
+    "url": "https://ilias.fh-muenster.de",
+    "icon": "https://favicons.githubusercontent.com/ilias.fh-muenster.de",
+    "slug": "ilias",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
+    "dailyMinutesDown": {}
   }
 ]
