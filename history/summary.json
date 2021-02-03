@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.fh-muenster.de",
     "slug": "fh-muenster",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.83%",
-    "time": 1209,
-    "timeDay": 1241,
-    "timeWeek": 1122,
-    "timeMonth": 1238,
-    "timeYear": 1209,
+    "uptimeYear": "99.84%",
+    "time": 1212,
+    "timeDay": 1341,
+    "timeWeek": 1096,
+    "timeMonth": 1250,
+    "timeYear": 1212,
     "dailyMinutesDown": {
       "2021-01-14": 86
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 661,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "time": 588,
+    "timeDay": 477,
+    "timeWeek": 560,
+    "timeMonth": 588,
+    "timeYear": 588,
     "dailyMinutesDown": {}
   }
 ]
