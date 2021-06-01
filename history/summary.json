@@ -24,9 +24,9 @@
     "url": "https://ilias.fh-muenster.de",
     "icon": "https://favicons.githubusercontent.com/ilias.fh-muenster.de",
     "slug": "ilias",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 599,
     "timeMonth": 669,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-01": 0
+    }
   }
 ]
