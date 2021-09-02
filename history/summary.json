@@ -4,11 +4,11 @@
     "url": "https://www.fh-muenster.de",
     "icon": "https://favicons.githubusercontent.com/www.fh-muenster.de",
     "slug": "fh-muenster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "97.33%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "98.08%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.45%",
     "time": 1246,
     "timeDay": 1094,
@@ -16,7 +16,7 @@
     "timeMonth": 1338,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2021-09-02": 38,
+      "2021-09-02": 39,
       "2021-08-19": 142,
       "2021-08-03": 379,
       "2021-08-02": 280,
@@ -33,7 +33,7 @@
     "url": "https://ilias.fh-muenster.de",
     "icon": "https://favicons.githubusercontent.com/ilias.fh-muenster.de",
     "slug": "ilias",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -45,6 +45,7 @@
     "timeMonth": 680,
     "timeYear": 645,
     "dailyMinutesDown": {
+      "2021-09-02": 0,
       "2021-06-01": 82
     }
   }
