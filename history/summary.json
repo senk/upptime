@@ -11,9 +11,9 @@
     "uptimeMonth": "53.74%",
     "uptimeYear": "95.85%",
     "time": 1329,
-    "timeDay": 1240,
-    "timeWeek": 1347,
-    "timeMonth": 1298,
+    "timeDay": 950,
+    "timeWeek": 1213,
+    "timeMonth": 1294,
     "timeYear": 1368,
     "dailyMinutesDown": {
       "2022-07-17": 18,
@@ -41,8 +41,7 @@
       "2021-08-19": 142,
       "2021-08-03": 379,
       "2021-08-02": 280,
-      "2021-07-22": 269,
-      "2021-07-21": 244
+      "2021-07-22": 269
     }
   },
   {
@@ -51,16 +50,16 @@
     "icon": "https://favicons.githubusercontent.com/ilias.fh-muenster.de",
     "slug": "ilias",
     "status": "up",
-    "uptime": "97.01%",
+    "uptime": "97.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "47.47%",
     "uptimeYear": "95.60%",
-    "time": 717,
-    "timeDay": 638,
-    "timeWeek": 711,
-    "timeMonth": 698,
-    "timeYear": 735,
+    "time": 716,
+    "timeDay": 515,
+    "timeWeek": 699,
+    "timeMonth": 700,
+    "timeYear": 736,
     "dailyMinutesDown": {
       "2022-07-17": 17,
       "2022-07-07": 769,
