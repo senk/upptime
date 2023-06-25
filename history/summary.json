@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.fh-muenster.de.ico",
     "slug": "fh-muenster",
     "status": "up",
-    "uptime": "98.26%",
+    "uptime": "98.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.79%",
-    "time": 1292,
-    "timeDay": 1340,
-    "timeWeek": 1060,
-    "timeMonth": 1197,
+    "uptimeYear": "97.07%",
+    "time": 1293,
+    "timeDay": 1378,
+    "timeWeek": 1121,
+    "timeMonth": 1196,
     "timeYear": 1282,
     "dailyMinutesDown": {
       "2023-03-01": 18,
@@ -31,8 +31,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   },
   {
@@ -45,11 +44,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.25%",
-    "time": 704,
-    "timeDay": 674,
-    "timeWeek": 787,
-    "timeMonth": 681,
+    "uptimeYear": "96.53%",
+    "time": 703,
+    "timeDay": 814,
+    "timeWeek": 785,
+    "timeMonth": 686,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2023-04-27": 62,
@@ -69,8 +68,7 @@
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
-      "2022-06-26": 1440,
-      "2022-06-25": 1440
+      "2022-06-26": 1440
     }
   }
 ]
