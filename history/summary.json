@@ -4,18 +4,19 @@
     "url": "https://www.fh-muenster.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fh-muenster.de.ico",
     "slug": "fh-muenster",
-    "status": "up",
+    "status": "down",
     "uptime": "98.65%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1340,
+    "time": 1339,
     "timeDay": 2003,
     "timeWeek": 2171,
     "timeMonth": 2047,
     "timeYear": 1313,
     "dailyMinutesDown": {
+      "2024-03-13": 1,
       "2023-11-16": 46,
       "2023-11-08": 46
     }
@@ -25,7 +26,7 @@
     "url": "https://ilias.fh-muenster.de",
     "icon": "https://icons.duckduckgo.com/ip3/ilias.fh-muenster.de.ico",
     "slug": "ilias",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,6 +38,7 @@
     "timeMonth": 867,
     "timeYear": 708,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2023-11-16": 35,
       "2023-04-27": 62
     }
