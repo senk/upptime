@@ -29,7 +29,7 @@
     "url": "https://ilias.fh-muenster.de",
     "icon": "https://icons.duckduckgo.com/ip3/ilias.fh-muenster.de.ico",
     "slug": "ilias",
-    "status": "up",
+    "status": "down",
     "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 741,
     "timeYear": 745,
     "dailyMinutesDown": {
+      "2024-09-09": 0,
       "2024-08-21": 19,
       "2024-08-14": 312,
       "2024-03-13": 62,
