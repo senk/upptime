@@ -1,7 +1,7 @@
 url: https://ilias.fh-muenster.de
-status: down
-code: 503
-responseTime: 1823
-lastUpdated: 2025-02-25T23:13:09.837Z
+status: up
+code: 200
+responseTime: 4255
+lastUpdated: 2025-02-26T16:52:12.474Z
 startTime: 2021-01-26T10:27:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
