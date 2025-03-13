@@ -6,17 +6,16 @@
     "slug": "fh-muenster",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.60%",
     "uptimeYear": "99.89%",
-    "time": 1083,
-    "timeDay": 993,
-    "timeWeek": 997,
+    "time": 1082,
+    "timeDay": 1041,
+    "timeWeek": 995,
     "timeMonth": 990,
-    "timeYear": 934,
+    "timeYear": 932,
     "dailyMinutesDown": {
-      "2025-03-12": 9,
       "2025-03-10": 47,
       "2025-03-03": 20,
       "2025-02-19": 31,
@@ -31,8 +30,7 @@
       "2024-12-17": 33,
       "2024-08-21": 20,
       "2024-05-30": 182,
-      "2024-04-22": 21,
-      "2024-03-13": 62
+      "2024-04-22": 21
     }
   },
   {
@@ -41,18 +39,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilias.fh-muenster.de.ico",
     "slug": "ilias",
     "status": "down",
-    "uptime": "98.40%",
+    "uptime": "98.36%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.78%",
-    "uptimeMonth": "75.70%",
-    "uptimeYear": "97.88%",
-    "time": 813,
+    "uptimeWeek": "5.33%",
+    "uptimeMonth": "73.53%",
+    "uptimeYear": "97.69%",
+    "time": 814,
     "timeDay": 0,
-    "timeWeek": 2300,
-    "timeMonth": 1633,
+    "timeWeek": 0,
+    "timeMonth": 1648,
     "timeYear": 849,
     "dailyMinutesDown": {
-      "2025-03-12": 586,
+      "2025-03-13": 97,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -73,8 +72,7 @@
       "2025-01-23": 18,
       "2024-12-17": 32,
       "2024-08-21": 19,
-      "2024-08-14": 312,
-      "2024-03-13": 62
+      "2024-08-14": 312
     }
   }
 ]
