@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.69%",
     "time": 927,
-    "timeDay": 1150,
-    "timeWeek": 939,
-    "timeMonth": 934,
-    "timeYear": 917,
+    "timeDay": 868,
+    "timeWeek": 960,
+    "timeMonth": 928,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2026-03-27": 46,
       "2026-03-26": 64,
@@ -54,8 +54,7 @@
       "2025-04-20": 117,
       "2025-04-19": 20,
       "2025-04-17": 20,
-      "2025-04-13": 17,
-      "2025-04-12": 92
+      "2025-04-13": 17
     }
   },
   {
@@ -64,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilias.fh-muenster.de.ico",
     "slug": "ilias",
     "status": "down",
-    "uptime": "77.97%",
+    "uptime": "77.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.02%",
-    "time": 1287,
+    "time": 1293,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 2554,
     "dailyMinutesDown": {
-      "2026-04-11": 152,
+      "2026-04-12": 171,
+      "2026-04-11": 1440,
       "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
@@ -438,8 +438,7 @@
       "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
-      "2025-04-13": 1440,
-      "2025-04-12": 1440
+      "2025-04-13": 1440
     }
   }
 ]
