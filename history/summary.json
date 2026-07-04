@@ -4,11 +4,11 @@
     "url": "https://www.fh-muenster.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fh-muenster.de.ico",
     "slug": "fh-muenster",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "99.48%",
     "time": 963,
     "timeDay": 1044,
@@ -53,7 +53,7 @@
       "2026-06-14": 159,
       "2026-06-13": 54,
       "2026-06-16": 300,
-      "2026-07-04": 70
+      "2026-07-04": 75
     }
   },
   {
@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ilias.fh-muenster.de.ico",
     "slug": "ilias",
     "status": "down",
-    "uptime": "74.67%",
+    "uptime": "74.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -307,7 +307,7 @@
       "2025-07-10": 1440,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
-      "2026-07-04": 203,
+      "2026-07-04": 602,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
